@@ -1,7 +1,11 @@
 <?php  
 
 	// let's start to resolve got conflict
+
 	// this rasel
+
+	// this is main
+
 	// Make Content Type into Text
 header('Content-type: text/plain');
 
