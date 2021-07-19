@@ -1,6 +1,7 @@
 <?php  
 
 	// let's start to resolve got conflict
+	// this is main
 	// Make Content Type into Text
 header('Content-type: text/plain');
 
